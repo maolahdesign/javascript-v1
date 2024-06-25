@@ -12,6 +12,8 @@
 
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- [Math 計算函示](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Math)
+- []()
 
 ## 專案練習
 
