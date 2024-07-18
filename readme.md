@@ -7,6 +7,7 @@
 - [codepen](https://codepen.io/)
 - [Script](https://www.notion.so/d10046b7d5b848de87c659bd9683f7d4?pvs=21)
 - [MDN Web Document: JavaScript](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript)
+- [HTML tree generator](https://chromewebstore.google.com/detail/dlbbmhhaadfnbbdnjalilhdakfmiffeg)
 
 ## JavaScript 參考程式碼
 

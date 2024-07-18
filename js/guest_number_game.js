@@ -1,3 +1,6 @@
+/*
+    猜數字遊戲
+*/
 function getRandom(scope) {
   return parseInt(Math.random()*scope);
 }

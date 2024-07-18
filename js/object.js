@@ -8,7 +8,7 @@ var robots = {
             this.number+" "+this.name+" "+this.type
         );
     },
-    sayhi:function(){alert("Hello "+this.name+"!");}
+    sayhi:function(){alert("Hi, I am "+this.name+"!");}
 };
 
 //var robots1 = new Robots(l)
