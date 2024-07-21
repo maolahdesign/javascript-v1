@@ -23,6 +23,7 @@
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [Math 計算函示](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Math)
 - [0 級 DOM](https://remarkable-pyroraptor-af0.notion.site/0-DOM-716f9e50f4e74177b912473d0cd6b015?pvs=4)
+- [jQuery 事件綁定](https://remarkable-pyroraptor-af0.notion.site/jQuery-8bb2565f341048edb9ce6750f0086725?pvs=4)
 
 ## 專案練習
 
