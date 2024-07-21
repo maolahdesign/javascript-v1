@@ -1,7 +1,8 @@
-section{display: flex;flex-direction:column;
-align-items: center;
-}
+section, div{display: flex; flex-direction:column; align-items: center;}
+div{border: 1px solid #eee;}
 img{width: 400px;}
-.hello{
-  font-size: 3em;
+.hello li{
+  font-size: 1em;
+    color: #0f0;
+    font-weight: 300;
 }

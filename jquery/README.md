@@ -22,7 +22,7 @@
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [Math 計算函示](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Math)
-- []()
+- [0 級 DOM](https://remarkable-pyroraptor-af0.notion.site/0-DOM-716f9e50f4e74177b912473d0cd6b015?pvs=4)
 
 ## 專案練習
 
