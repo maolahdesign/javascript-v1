@@ -1,4 +1,7 @@
-# 使用者介面設計入門：JavaScript
+使用者介面設計入門：JavaScript
+===
+
+# 參考資料連結
 
 - [JavaScript 現在過去及未來](https://zh.wikipedia.org/zh-tw/ECMAScript)
 - [程式編輯器下載](https://phcode.io/#/home)

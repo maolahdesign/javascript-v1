@@ -22,17 +22,22 @@
   </div>
 
   <script>
-    document.querySelector('.outer').addEventListener('click', function() {
+//      $('.outer').on("click",function(){
+//          alert('div 1 clicked');
+//      })
+    document.querySelector('.outer').addEventListener('click', function(event) {
       alert('div 1 clicked');
+        
     });
 
-    document.querySelector('.middle').addEventListener('click', function() {
+    document.querySelector('.middle').addEventListener('click', function(event) {
       alert('div 2 clicked');
+        event.stopPropagation(); 
     });
 
     document.querySelector('.inner').addEventListener('click', function(event) {
       alert('div 3 clicked');
-//      event.stopPropagation(); 
+      event.stopPropagation(); 
     });
   </script>
 </body>
